@@ -1,9 +1,9 @@
 <?php 
 
 /**
- * Echos coffee incredient.
+ * Echos scion engines.
  *
- * @param Type of coffee
+ * @param Scion's Engines
  */
 
 function scionmodel($type) {
@@ -52,7 +52,7 @@ Hybrid
 <strong>Also:</strong> contains eleven airbags!
 </p> ';
   }  else if ($type == 'tC') {
-    echo '<h3>xA</h3>
+    echo '<h3>tC</h3>
     <p>Engine:<br>
  2.4 L Dual Overhead Cam (DOHC) 16-valve 4-cylinder with VVT-i, compression ratio of 9.6:1 for the 2005/06 models and 9.8:1 for 2007-2010.<br>
  161 hp (120 kW) @ 6000 rpm (2007MY+) / 160 hp (119 kW) @ 5700 rpm (2005-06MY)<br>
